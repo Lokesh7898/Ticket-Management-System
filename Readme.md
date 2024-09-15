@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/project-management-system.git`
+1. Clone the repository: `https://github.com/Lokesh7898/Ticket-Management-System.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm run dev`
 
